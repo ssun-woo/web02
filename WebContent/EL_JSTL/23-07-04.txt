@@ -1,0 +1,25 @@
+JSTL 사용
+
+jsp & 서블릿 강의 교안.pdf
+6페이지 하단 'JSTL 라이브러리 다운로드 순서' 참고해서 다운로드
+
+
+JSTL_07.jsp 생성 전에 name.jsp 먼저 생성
+
+JSTL_08.jsp 생성 전에 images폴더 생성 후 여름바다 이미지 하나 다운받아서 저장(summer_sea.jpg)
+
+JSTL_10.jsp 생성 전에 sqldeveloper에서 테이블 생성
+-- test 테이블 생성
+create table test(
+    num number(38),
+    name varchar2(20)
+);
+
+select * from test;
+
+
+
+
+
+
+
